@@ -1,0 +1,361 @@
+District,Type,Variable
+Bengaluru (Urban),new,TotalFactories_849
+Bengaluru (Urban),new,NoOfMobilePhones_1021
+Bengaluru (Urban),new,TotalMotorVehicles_1004
+Bengaluru (Urban),new,InternetConnection_1022
+Bengaluru (Urban),new,NoOfFishMarket_833
+Bengaluru (Urban),new,NoOfColdStorage_825
+Bengaluru (Urban),old,TotalFactories_849
+Bengaluru (Urban),old,NoOfMobilePhones_1021
+Bengaluru (Urban),old,TotalMotorVehicles_1004
+Bengaluru (Urban),old,InternetConnection_1022
+Bengaluru (Urban),old,NoOfFishMarket_833
+Bengaluru (Urban),old,NoOfColdStorage_825
+Bengaluru (Rural),new,TotalFactories_849
+Bengaluru (Rural),new,NoOfMobilePhones_1021
+Bengaluru (Rural),new,TotalMotorVehicles_1004
+Bengaluru (Rural),new,InternetConnection_1022
+Bengaluru (Rural),new,NoOfFishMarket_833
+Bengaluru (Rural),new,NoOfColdStorage_825
+Bengaluru (Rural),old,TotalFactories_849
+Bengaluru (Rural),old,NoOfMobilePhones_1021
+Bengaluru (Rural),old,TotalMotorVehicles_1004
+Bengaluru (Rural),old,InternetConnection_1022
+Bengaluru (Rural),old,NoOfFishMarket_833
+Bengaluru (Rural),old,NoOfColdStorage_825
+Ramanagara,new,TotalFactories_849
+Ramanagara,new,NoOfMobilePhones_1021
+Ramanagara,new,TotalMotorVehicles_1004
+Ramanagara,new,InternetConnection_1022
+Ramanagara,new,NoOfFishMarket_833
+Ramanagara,new,NoOfColdStorage_825
+Ramanagara,old,TotalFactories_849
+Ramanagara,old,NoOfMobilePhones_1021
+Ramanagara,old,TotalMotorVehicles_1004
+Ramanagara,old,InternetConnection_1022
+Ramanagara,old,NoOfFishMarket_833
+Ramanagara,old,NoOfColdStorage_825
+Chitradurga,new,TotalFactories_849
+Chitradurga,new,NoOfMobilePhones_1021
+Chitradurga,new,TotalMotorVehicles_1004
+Chitradurga,new,InternetConnection_1022
+Chitradurga,new,NoOfFishMarket_833
+Chitradurga,new,NoOfColdStorage_825
+Chitradurga,old,TotalFactories_849
+Chitradurga,old,NoOfMobilePhones_1021
+Chitradurga,old,TotalMotorVehicles_1004
+Chitradurga,old,InternetConnection_1022
+Chitradurga,old,NoOfFishMarket_833
+Chitradurga,old,NoOfColdStorage_825
+Davanagere,new,TotalFactories_849
+Davanagere,new,NoOfMobilePhones_1021
+Davanagere,new,TotalMotorVehicles_1004
+Davanagere,new,InternetConnection_1022
+Davanagere,new,NoOfFishMarket_833
+Davanagere,new,NoOfColdStorage_825
+Davanagere,old,TotalFactories_849
+Davanagere,old,NoOfMobilePhones_1021
+Davanagere,old,TotalMotorVehicles_1004
+Davanagere,old,InternetConnection_1022
+Davanagere,old,NoOfFishMarket_833
+Davanagere,old,NoOfColdStorage_825
+Kolara,new,TotalFactories_849
+Kolara,new,NoOfMobilePhones_1021
+Kolara,new,TotalMotorVehicles_1004
+Kolara,new,InternetConnection_1022
+Kolara,new,NoOfFishMarket_833
+Kolara,new,NoOfColdStorage_825
+Kolara,old,TotalFactories_849
+Kolara,old,NoOfMobilePhones_1021
+Kolara,old,TotalMotorVehicles_1004
+Kolara,old,InternetConnection_1022
+Kolara,old,NoOfFishMarket_833
+Kolara,old,NoOfColdStorage_825
+Chikkaballapura,new,TotalFactories_849
+Chikkaballapura,new,NoOfMobilePhones_1021
+Chikkaballapura,new,TotalMotorVehicles_1004
+Chikkaballapura,new,InternetConnection_1022
+Chikkaballapura,new,NoOfFishMarket_833
+Chikkaballapura,new,NoOfColdStorage_825
+Chikkaballapura,old,TotalFactories_849
+Chikkaballapura,old,NoOfMobilePhones_1021
+Chikkaballapura,old,TotalMotorVehicles_1004
+Chikkaballapura,old,InternetConnection_1022
+Chikkaballapura,old,NoOfFishMarket_833
+Chikkaballapura,old,NoOfColdStorage_825
+Shivamogga,new,TotalFactories_849
+Shivamogga,new,NoOfMobilePhones_1021
+Shivamogga,new,TotalMotorVehicles_1004
+Shivamogga,new,InternetConnection_1022
+Shivamogga,new,NoOfFishMarket_833
+Shivamogga,new,NoOfColdStorage_825
+Shivamogga,old,TotalFactories_849
+Shivamogga,old,NoOfMobilePhones_1021
+Shivamogga,old,TotalMotorVehicles_1004
+Shivamogga,old,InternetConnection_1022
+Shivamogga,old,NoOfFishMarket_833
+Shivamogga,old,NoOfColdStorage_825
+Tumakuru,new,TotalFactories_849
+Tumakuru,new,NoOfMobilePhones_1021
+Tumakuru,new,TotalMotorVehicles_1004
+Tumakuru,new,InternetConnection_1022
+Tumakuru,new,NoOfFishMarket_833
+Tumakuru,new,NoOfColdStorage_825
+Tumakuru,old,TotalFactories_849
+Tumakuru,old,NoOfMobilePhones_1021
+Tumakuru,old,TotalMotorVehicles_1004
+Tumakuru,old,InternetConnection_1022
+Tumakuru,old,NoOfFishMarket_833
+Tumakuru,old,NoOfColdStorage_825
+Chikkamagaluru,new,TotalFactories_849
+Chikkamagaluru,new,NoOfMobilePhones_1021
+Chikkamagaluru,new,TotalMotorVehicles_1004
+Chikkamagaluru,new,InternetConnection_1022
+Chikkamagaluru,new,NoOfFishMarket_833
+Chikkamagaluru,new,NoOfColdStorage_825
+Chikkamagaluru,old,TotalFactories_849
+Chikkamagaluru,old,NoOfMobilePhones_1021
+Chikkamagaluru,old,TotalMotorVehicles_1004
+Chikkamagaluru,old,InternetConnection_1022
+Chikkamagaluru,old,NoOfFishMarket_833
+Chikkamagaluru,old,NoOfColdStorage_825
+Dakshina Kannada,new,TotalFactories_849
+Dakshina Kannada,new,NoOfMobilePhones_1021
+Dakshina Kannada,new,TotalMotorVehicles_1004
+Dakshina Kannada,new,InternetConnection_1022
+Dakshina Kannada,new,NoOfFishMarket_833
+Dakshina Kannada,new,NoOfColdStorage_825
+Dakshina Kannada,old,TotalFactories_849
+Dakshina Kannada,old,NoOfMobilePhones_1021
+Dakshina Kannada,old,TotalMotorVehicles_1004
+Dakshina Kannada,old,InternetConnection_1022
+Dakshina Kannada,old,NoOfFishMarket_833
+Dakshina Kannada,old,NoOfColdStorage_825
+Udupi,new,TotalFactories_849
+Udupi,new,NoOfMobilePhones_1021
+Udupi,new,TotalMotorVehicles_1004
+Udupi,new,InternetConnection_1022
+Udupi,new,NoOfFishMarket_833
+Udupi,new,NoOfColdStorage_825
+Udupi,old,TotalFactories_849
+Udupi,old,NoOfMobilePhones_1021
+Udupi,old,TotalMotorVehicles_1004
+Udupi,old,InternetConnection_1022
+Udupi,old,NoOfFishMarket_833
+Udupi,old,NoOfColdStorage_825
+Hassan,new,TotalFactories_849
+Hassan,new,NoOfMobilePhones_1021
+Hassan,new,TotalMotorVehicles_1004
+Hassan,new,InternetConnection_1022
+Hassan,new,NoOfFishMarket_833
+Hassan,new,NoOfColdStorage_825
+Hassan,old,TotalFactories_849
+Hassan,old,NoOfMobilePhones_1021
+Hassan,old,TotalMotorVehicles_1004
+Hassan,old,InternetConnection_1022
+Hassan,old,NoOfFishMarket_833
+Hassan,old,NoOfColdStorage_825
+Kodagu,new,TotalFactories_849
+Kodagu,new,NoOfMobilePhones_1021
+Kodagu,new,TotalMotorVehicles_1004
+Kodagu,new,InternetConnection_1022
+Kodagu,new,NoOfFishMarket_833
+Kodagu,new,NoOfColdStorage_825
+Kodagu,old,TotalFactories_849
+Kodagu,old,NoOfMobilePhones_1021
+Kodagu,old,TotalMotorVehicles_1004
+Kodagu,old,InternetConnection_1022
+Kodagu,old,NoOfFishMarket_833
+Kodagu,old,NoOfColdStorage_825
+Mandya,new,TotalFactories_849
+Mandya,new,NoOfMobilePhones_1021
+Mandya,new,TotalMotorVehicles_1004
+Mandya,new,InternetConnection_1022
+Mandya,new,NoOfFishMarket_833
+Mandya,new,NoOfColdStorage_825
+Mandya,old,TotalFactories_849
+Mandya,old,NoOfMobilePhones_1021
+Mandya,old,TotalMotorVehicles_1004
+Mandya,old,InternetConnection_1022
+Mandya,old,NoOfFishMarket_833
+Mandya,old,NoOfColdStorage_825
+Mysuru,new,TotalFactories_849
+Mysuru,new,NoOfMobilePhones_1021
+Mysuru,new,TotalMotorVehicles_1004
+Mysuru,new,InternetConnection_1022
+Mysuru,new,NoOfFishMarket_833
+Mysuru,new,NoOfColdStorage_825
+Mysuru,old,TotalFactories_849
+Mysuru,old,NoOfMobilePhones_1021
+Mysuru,old,TotalMotorVehicles_1004
+Mysuru,old,InternetConnection_1022
+Mysuru,old,NoOfFishMarket_833
+Mysuru,old,NoOfColdStorage_825
+Chamarajanagara,new,TotalFactories_849
+Chamarajanagara,new,NoOfMobilePhones_1021
+Chamarajanagara,new,TotalMotorVehicles_1004
+Chamarajanagara,new,InternetConnection_1022
+Chamarajanagara,new,NoOfFishMarket_833
+Chamarajanagara,new,NoOfColdStorage_825
+Chamarajanagara,old,TotalFactories_849
+Chamarajanagara,old,NoOfMobilePhones_1021
+Chamarajanagara,old,TotalMotorVehicles_1004
+Chamarajanagara,old,InternetConnection_1022
+Chamarajanagara,old,NoOfFishMarket_833
+Chamarajanagara,old,NoOfColdStorage_825
+Belagavi,new,TotalFactories_849
+Belagavi,new,NoOfMobilePhones_1021
+Belagavi,new,TotalMotorVehicles_1004
+Belagavi,new,InternetConnection_1022
+Belagavi,new,NoOfFishMarket_833
+Belagavi,new,NoOfColdStorage_825
+Belagavi,old,TotalFactories_849
+Belagavi,old,NoOfMobilePhones_1021
+Belagavi,old,TotalMotorVehicles_1004
+Belagavi,old,InternetConnection_1022
+Belagavi,old,NoOfFishMarket_833
+Belagavi,old,NoOfColdStorage_825
+Vijayapura,new,TotalFactories_849
+Vijayapura,new,NoOfMobilePhones_1021
+Vijayapura,new,TotalMotorVehicles_1004
+Vijayapura,new,InternetConnection_1022
+Vijayapura,new,NoOfFishMarket_833
+Vijayapura,new,NoOfColdStorage_825
+Vijayapura,old,TotalFactories_849
+Vijayapura,old,NoOfMobilePhones_1021
+Vijayapura,old,TotalMotorVehicles_1004
+Vijayapura,old,InternetConnection_1022
+Vijayapura,old,NoOfFishMarket_833
+Vijayapura,old,NoOfColdStorage_825
+Bagalkot,new,TotalFactories_849
+Bagalkot,new,NoOfMobilePhones_1021
+Bagalkot,new,TotalMotorVehicles_1004
+Bagalkot,new,InternetConnection_1022
+Bagalkot,new,NoOfFishMarket_833
+Bagalkot,new,NoOfColdStorage_825
+Bagalkot,old,TotalFactories_849
+Bagalkot,old,NoOfMobilePhones_1021
+Bagalkot,old,TotalMotorVehicles_1004
+Bagalkot,old,InternetConnection_1022
+Bagalkot,old,NoOfFishMarket_833
+Bagalkot,old,NoOfColdStorage_825
+Dharwad,new,TotalFactories_849
+Dharwad,new,NoOfMobilePhones_1021
+Dharwad,new,TotalMotorVehicles_1004
+Dharwad,new,InternetConnection_1022
+Dharwad,new,NoOfFishMarket_833
+Dharwad,new,NoOfColdStorage_825
+Dharwad,old,TotalFactories_849
+Dharwad,old,NoOfMobilePhones_1021
+Dharwad,old,TotalMotorVehicles_1004
+Dharwad,old,InternetConnection_1022
+Dharwad,old,NoOfFishMarket_833
+Dharwad,old,NoOfColdStorage_825
+Gadag,new,TotalFactories_849
+Gadag,new,NoOfMobilePhones_1021
+Gadag,new,TotalMotorVehicles_1004
+Gadag,new,InternetConnection_1022
+Gadag,new,NoOfFishMarket_833
+Gadag,new,NoOfColdStorage_825
+Gadag,old,TotalFactories_849
+Gadag,old,NoOfMobilePhones_1021
+Gadag,old,TotalMotorVehicles_1004
+Gadag,old,InternetConnection_1022
+Gadag,old,NoOfFishMarket_833
+Gadag,old,NoOfColdStorage_825
+Haveri,new,TotalFactories_849
+Haveri,new,NoOfMobilePhones_1021
+Haveri,new,TotalMotorVehicles_1004
+Haveri,new,InternetConnection_1022
+Haveri,new,NoOfFishMarket_833
+Haveri,new,NoOfColdStorage_825
+Haveri,old,TotalFactories_849
+Haveri,old,NoOfMobilePhones_1021
+Haveri,old,TotalMotorVehicles_1004
+Haveri,old,InternetConnection_1022
+Haveri,old,NoOfFishMarket_833
+Haveri,old,NoOfColdStorage_825
+Uttara Kannada,new,TotalFactories_849
+Uttara Kannada,new,NoOfMobilePhones_1021
+Uttara Kannada,new,TotalMotorVehicles_1004
+Uttara Kannada,new,InternetConnection_1022
+Uttara Kannada,new,NoOfFishMarket_833
+Uttara Kannada,new,NoOfColdStorage_825
+Uttara Kannada,old,TotalFactories_849
+Uttara Kannada,old,NoOfMobilePhones_1021
+Uttara Kannada,old,TotalMotorVehicles_1004
+Uttara Kannada,old,InternetConnection_1022
+Uttara Kannada,old,NoOfFishMarket_833
+Uttara Kannada,old,NoOfColdStorage_825
+Ballari,new,TotalFactories_849
+Ballari,new,NoOfMobilePhones_1021
+Ballari,new,TotalMotorVehicles_1004
+Ballari,new,InternetConnection_1022
+Ballari,new,NoOfFishMarket_833
+Ballari,new,NoOfColdStorage_825
+Ballari,old,TotalFactories_849
+Ballari,old,NoOfMobilePhones_1021
+Ballari,old,TotalMotorVehicles_1004
+Ballari,old,InternetConnection_1022
+Ballari,old,NoOfFishMarket_833
+Ballari,old,NoOfColdStorage_825
+Bidar,new,TotalFactories_849
+Bidar,new,NoOfMobilePhones_1021
+Bidar,new,TotalMotorVehicles_1004
+Bidar,new,InternetConnection_1022
+Bidar,new,NoOfFishMarket_833
+Bidar,new,NoOfColdStorage_825
+Bidar,old,TotalFactories_849
+Bidar,old,NoOfMobilePhones_1021
+Bidar,old,TotalMotorVehicles_1004
+Bidar,old,InternetConnection_1022
+Bidar,old,NoOfFishMarket_833
+Bidar,old,NoOfColdStorage_825
+Kalburgi,new,TotalFactories_849
+Kalburgi,new,NoOfMobilePhones_1021
+Kalburgi,new,TotalMotorVehicles_1004
+Kalburgi,new,InternetConnection_1022
+Kalburgi,new,NoOfFishMarket_833
+Kalburgi,new,NoOfColdStorage_825
+Kalburgi,old,TotalFactories_849
+Kalburgi,old,NoOfMobilePhones_1021
+Kalburgi,old,TotalMotorVehicles_1004
+Kalburgi,old,InternetConnection_1022
+Kalburgi,old,NoOfFishMarket_833
+Kalburgi,old,NoOfColdStorage_825
+Yadgir,new,TotalFactories_849
+Yadgir,new,NoOfMobilePhones_1021
+Yadgir,new,TotalMotorVehicles_1004
+Yadgir,new,InternetConnection_1022
+Yadgir,new,NoOfFishMarket_833
+Yadgir,new,NoOfColdStorage_825
+Yadgir,old,TotalFactories_849
+Yadgir,old,NoOfMobilePhones_1021
+Yadgir,old,TotalMotorVehicles_1004
+Yadgir,old,InternetConnection_1022
+Yadgir,old,NoOfFishMarket_833
+Yadgir,old,NoOfColdStorage_825
+Raichur,new,TotalFactories_849
+Raichur,new,NoOfMobilePhones_1021
+Raichur,new,TotalMotorVehicles_1004
+Raichur,new,InternetConnection_1022
+Raichur,new,NoOfFishMarket_833
+Raichur,new,NoOfColdStorage_825
+Raichur,old,TotalFactories_849
+Raichur,old,NoOfMobilePhones_1021
+Raichur,old,TotalMotorVehicles_1004
+Raichur,old,InternetConnection_1022
+Raichur,old,NoOfFishMarket_833
+Raichur,old,NoOfColdStorage_825
+Vijayanagara,new,TotalFactories_849
+Vijayanagara,new,NoOfMobilePhones_1021
+Vijayanagara,new,TotalMotorVehicles_1004
+Vijayanagara,new,InternetConnection_1022
+Vijayanagara,new,NoOfFishMarket_833
+Vijayanagara,new,NoOfColdStorage_825
+Vijayanagara,old,TotalFactories_849
+Vijayanagara,old,NoOfMobilePhones_1021
+Vijayanagara,old,TotalMotorVehicles_1004
+Vijayanagara,old,InternetConnection_1022
+Vijayanagara,old,NoOfFishMarket_833
+Vijayanagara,old,NoOfColdStorage_825
